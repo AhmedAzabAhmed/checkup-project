@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" contentMode="center" reuseIdentifier="branchCell" id="gTV-IL-0wX" customClass="BranchesCollectionViewCell" customModule="Checkup" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="191" height="233"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="191" height="233"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Alexandria" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bMS-xC-Xma">
+                        <rect key="frame" x="51.5" y="13" width="88" height="21"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                        <color key="textColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Mahatet EL-Raml branch beside Mahatet EL-Raml branch beside Mahatet EL-Raml branch beside " textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8gf-wa-LG3">
+                        <rect key="frame" x="5" y="49" width="181" height="44"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="44" id="Yvz-EY-tls"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view userInteractionEnabled="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="eY1-hx-ifz" customClass="CosmosView" customModule="Cosmos">
+                        <rect key="frame" x="35.5" y="100.5" width="120" height="20"/>
+                        <color key="backgroundColor" red="0.96862745098039216" green="0.96862745098039216" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="120" id="Y6n-RG-tX0"/>
+                        </constraints>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="znB-Ws-HnF">
+                        <rect key="frame" x="77" y="135.5" width="37.5" height="18"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="j9e-7f-NjP">
+                        <rect key="frame" x="30.5" y="169" width="130" height="40"/>
+                        <color key="backgroundColor" red="0.035294117647058823" green="0.74117647058823533" blue="0.97647058823529409" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="40" id="GSS-Di-rY0"/>
+                            <constraint firstAttribute="width" constant="130" id="Ixz-5v-3ZD"/>
+                        </constraints>
+                        <state key="normal" title="Request">
+                            <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </state>
+                    </button>
+                </subviews>
+            </view>
+            <color key="backgroundColor" red="0.96862745098039216" green="0.96862745098039216" blue="0.96862745098039216" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="eY1-hx-ifz" firstAttribute="top" secondItem="8gf-wa-LG3" secondAttribute="bottom" constant="7.5" id="48g-Kc-zps"/>
+                <constraint firstItem="j9e-7f-NjP" firstAttribute="top" secondItem="znB-Ws-HnF" secondAttribute="bottom" constant="15.5" id="9G7-rV-DTo"/>
+                <constraint firstItem="bMS-xC-Xma" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="E7c-hZ-JGm"/>
+                <constraint firstItem="eY1-hx-ifz" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="I9Z-KK-DBG"/>
+                <constraint firstItem="znB-Ws-HnF" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="ZFT-19-kak"/>
+                <constraint firstItem="8gf-wa-LG3" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="5" id="b5d-kD-3Js"/>
+                <constraint firstItem="bMS-xC-Xma" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="13" id="ciW-Sr-Feb"/>
+                <constraint firstItem="8gf-wa-LG3" firstAttribute="top" secondItem="bMS-xC-Xma" secondAttribute="bottom" constant="15" id="e0H-mI-6UF"/>
+                <constraint firstItem="j9e-7f-NjP" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="hIT-it-djM"/>
+                <constraint firstAttribute="trailing" secondItem="8gf-wa-LG3" secondAttribute="trailing" constant="5" id="nBV-g0-Tnk"/>
+                <constraint firstItem="znB-Ws-HnF" firstAttribute="top" secondItem="eY1-hx-ifz" secondAttribute="bottom" constant="15" id="qqg-PP-MP3"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="302" height="69"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                    <integer key="value" value="15"/>
+                </userDefinedRuntimeAttribute>
+                <userDefinedRuntimeAttribute type="number" keyPath="layer.borderWidth">
+                    <integer key="value" value="5"/>
+                </userDefinedRuntimeAttribute>
+                <userDefinedRuntimeAttribute type="color" keyPath="layer.borderColor">
+                    <color key="value" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <connections>
+                <outlet property="addressOutlet" destination="8gf-wa-LG3" id="I2Q-8k-3gi"/>
+                <outlet property="branchDescOutlet" destination="8gf-wa-LG3" id="NyD-nq-DFJ"/>
+                <outlet property="distanceOutlet" destination="znB-Ws-HnF" id="CnZ-5E-VqC"/>
+                <outlet property="governNameOutlet" destination="bMS-xC-Xma" id="wba-dz-Qao"/>
+                <outlet property="ratingOutlet" destination="eY1-hx-ifz" id="Xr0-Nb-eQQ"/>
+                <outlet property="requestBtnOutlet" destination="j9e-7f-NjP" id="7Yi-sS-QaA"/>
+            </connections>
+            <point key="canvasLocation" x="-170.28985507246378" y="-123.54910714285714"/>
+        </collectionViewCell>
+    </objects>
+</document>

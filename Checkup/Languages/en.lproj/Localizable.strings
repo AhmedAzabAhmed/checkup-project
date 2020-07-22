@@ -1,0 +1,89 @@
+/* 
+  Localizable.strings
+  Checkup
+
+  Created by Hassan Khamis on 5/23/20.
+  Copyright © 2020 Hassan Khamis. All rights reserved.
+*/
+"language" = "en";
+"sorry" = "Alert";
+"alertDateMessageError" = "date is required";
+"Ok" = "Ok";
+"Yes" = "Yes";
+"No" = "No";
+"please enter at least date range or lab to filter data" = "please enter at least date range or lab to filter data";
+"please insert another date" = "please insert another date";
+"INFORMATION" = "Informations";
+"STATUS_SORRY_CANCEL"= "Sorry You can't cancel this request after less than 3 hours we will take your sample if it's urgent please contact the laboratory to cancel !";
+"STATUS_DELETION_FAILS" = "Faild to Delete this Request";
+"STATUS_DELETION_SUCCESS"= "Your Request has been Deleted Successfully";
+"STATUS_CONFIRMATION"="Confirmation Message";
+"STATUS_CANCEL_SUCCESS"="Your Request has been canceled Successfully ... ";
+"STATUS_CANCEL_FAILS"="Something Went Wrong !.";
+"STATUS_CANCEL_CONFIRMATION"="Do you want to cancel this request ?";
+"STATUS_DELETE_CONFIRMATION"="Do You Want To Delete This Request ?!";
+"STATUS_COST"="COST";
+"STATUS_COST_VALUE"="L.E";
+"STATUS_BACK"="Back";
+"STATUS_LOCATION"="Location";
+"STATUS_TIME"="Time";
+"STATUS_DATE"="Date";
+"SIGN_UP_NAME" = "Name";
+"SIGN_UP_Email" = "Email";
+"SIGN_UP_Password" = "password";
+"SIGN_UP_ConfirmPassword" = "Confirm Password";
+"SIGN_UP_signup" = "Sign up";
+"RESET_PASSWORD_EnterEmail" = "Enter Your Email";
+"RESET_PASSWORD_ValidEmail" = "Enter Valid Email";
+"RESET_PASSWORD_Reset" = "Reset";
+"RESET_PASSWORD_Cancel" = "Cancel";
+"NEW_PASSWORD_OldPassword"="Old Password";
+"NEW_PASSWORD_NewPassword"="New Password";
+"NEW_PASSWORD_ConfirmNewPassword"="Confirm New Password";
+"please wait for loading data" = "please wait for loading data";
+"Complete your profile" = "Complete your profile";
+"make sure that you entered your phone, birthdate and gender" = "make sure that you entered your phone, birthdate and gender";
+"time is required" = "time is required";
+"address is required" = "address is required";
+"please insert at least photo or test Name" = "please insert at least photo or test Name";
+"Enter Year First"="Enter Year First";
+"address is required"="address is required";
+"floor number is required"="floor number is required";
+"building number is required"="building number is required";
+"please drop pin on map"="please drop pin on map";
+"Apartment number is required"="Apartment number is required";
+"This graph show the percentage of HBA1C during "="This graph show the percentage of HBA1C during ";
+"The password is invalid or the user does not have a password." = "The password is invalid or the user does not have a password.";
+"The email address is badly formatted." = "The email address is badly formatted.";
+"There is no user record corresponding to this identifier. The user may have been deleted." = "There is no user record corresponding to this identifier.";
+"An error occured please try again later" = "An error occured please try again later";
+"Please Fill Required Fields" = "Please Fill Required Fields";
+"Name is Required" = "Name is Required";
+"Email is Required" = "Email is Required";
+"Password is Required" =  "Password is Required";
+"Password must be more than 6 characters" = "Password must be more than 6 characters";
+"confirmPassword does not match Password" = "confirmPassword does not match Password";
+"wrong password" = "wrong password";
+"account Exists With Different Credential" = "account Exists With Different Credential";
+"Email is already exist" = "Email is already exist";
+"No Internet Connection" = "No Internet Connection";
+
+"There is no data" = "There is no data";
+
+
+
+"STATUS_IS_NOT_FROM_HOME_TEXT"="Lab Details :";
+"STATUS_SHOW_LAB_DETALS" = "Show Lab Details";
+"Enter your problem details here..."="Enter your problem details here..." ;
+"Enter your problem please"="Enter your problem please";
+"Couldn't send email"="Couldn't send email";
+"Your device couldn't send email"="Your device couldn't send email";
+"Language"="Language";
+"To changing language you need to restart application, do you want to restart?"="To changing language you need to restart application, do you want to restart?";
+"Choose Language"="Choose Language";
+"please complete your health profile" = "please complete your health profile";
+"Answer all the questions, please" = "Answer all the questions, please";
+"RESULT_NO_DESCRIPTION" = "No Description";
+"RESULT_NO_Date" =  "No Date Set";
+"RESULT_NO_TIME" = "No Time Set";
+"Disease Name"="Disease Name";

@@ -1,0 +1,123 @@
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "09R-mG-bij"; */
+"09R-mG-bij.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Test Name : "; ObjectID = "0Ew-Ex-Amy"; */
+"0Ew-Ex-Amy.text" = "Test Name : ";
+
+/* Class = "UILabel"; text = "Your Requset Is Refused"; ObjectID = "6YE-ta-AgI"; */
+"6YE-ta-AgI.text" = "Your Requset Is Refused";
+
+/* Class = "UILabel"; text = "Done"; ObjectID = "6ZS-6O-viu"; */
+"6ZS-6O-viu.text" = "Result";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit x ea commodo consequatLorem ipsum dolor sit er elit x ea commodo consequatLorem ipsum dolor sit er elit x ea commodo consequat"; ObjectID = "7vn-pj-nWb"; */
+"7vn-pj-nWb.text" = "Lorem ipsum dolor sit er elit x ea commodo consequatLorem ipsum dolor sit er elit x ea commodo consequatLorem ipsum dolor sit er elit x ea commodo consequat";
+
+/* Class = "UILabel"; text = "Cost : 250 L.E"; ObjectID = "9p4-LM-zMR"; */
+"9p4-LM-zMR.text" = "Cost : 0 L.E";
+
+/* Class = "UILabel"; text = "Phone :"; ObjectID = "FnF-D7-yXI"; */
+"FnF-D7-yXI.text" = "Phone :";
+
+/* Class = "UIButton"; normalTitle = "Show Request Details"; ObjectID = "G6Y-RW-ERx"; */
+"G6Y-RW-ERx.normalTitle" = "Show Request Details";
+
+/* Class = "UILabel"; text = "Empolyee Details :"; ObjectID = "Hwn-kv-7x0"; */
+"Hwn-kv-7x0.text" = "Technician Details :";
+
+/* Class = "UILabel"; text = "Pending"; ObjectID = "IJX-L7-Myh"; */
+"IJX-L7-Myh.text" = "Response";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "Iee-V1-9HC"; */
+"Iee-V1-9HC.text" = "Code";
+
+/* Class = "UILabel"; text = "--------"; ObjectID = "IxS-fE-wO5"; */
+"IxS-fE-wO5.text" = "--------";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JN8-kL-Zkh"; */
+"JN8-kL-Zkh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Show Details"; ObjectID = "K0a-8k-1VD"; */
+"K0a-8k-1VD.normalTitle" = "Show Details";
+
+/* Class = "UILabel"; text = "Description :"; ObjectID = "Kcx-Yu-Sab"; */
+"Kcx-Yu-Sab.text" = "Description :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NbB-bU-HFM"; */
+"NbB-bU-HFM.text" = "Label";
+
+/* Class = "UILabel"; text = "22jun,2019"; ObjectID = "Oug-r6-HkG"; */
+"Oug-r6-HkG.text" = "22jun,2019";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TbE-q1-Sdt"; */
+"TbE-q1-Sdt.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Show Request Details"; ObjectID = "U8f-20-gGN"; */
+"U8f-20-gGN.normalTitle" = "Show Request Details";
+
+/* Class = "UIButton"; normalTitle = "Cancel Request"; ObjectID = "UXs-9w-gU4"; */
+"UXs-9w-gU4.normalTitle" = "Cancel Request";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VPI-R8-Qsd"; */
+"VPI-R8-Qsd.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xeq-6y-HRM"; */
+"Xeq-6y-HRM.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit x ipsum dolor sit er elit x ea commodo consequatLorem ipsum dolor sit er elit"; ObjectID = "chT-OG-q0n"; */
+"chT-OG-q0n.text" = "Lorem ipsum dolor sit er elit x ipsum dolor sit er elit x ea commodo consequatLorem ipsum dolor sit er elit";
+
+/* Class = "UIButton"; normalTitle = "Delete Request"; ObjectID = "dy3-6V-CZN"; */
+"dy3-6V-CZN.normalTitle" = "Delete Request";
+
+/* Class = "UILabel"; text = "Aly ibrahim"; ObjectID = "e0H-en-zRZ"; */
+"e0H-en-zRZ.text" = "Aly ibrahim";
+
+/* Class = "UILabel"; text = "Test Name : "; ObjectID = "eUQ-b2-eIX"; */
+"eUQ-b2-eIX.text" = "Test Name : ";
+
+/* Class = "UILabel"; text = "Test is not avilable"; ObjectID = "fvg-Fm-3PZ"; */
+"fvg-Fm-3PZ.text" = "Test is not avilable";
+
+/* Class = "UILabel"; text = "Reason:"; ObjectID = "g3j-PB-V2a"; */
+"g3j-PB-V2a.text" = "Reason:";
+
+/* Class = "UIButton"; normalTitle = "Cancel Request"; ObjectID = "i4R-EY-6mj"; */
+"i4R-EY-6mj.normalTitle" = "Cancel Request";
+
+/* Class = "UINavigationItem"; title = "Requests"; ObjectID = "jcs-eR-8Lb"; */
+"jcs-eR-8Lb.title" = "Requests";
+
+/* Class = "UILabel"; text = "Time  :"; ObjectID = "kss-BV-vhZ"; */
+"kss-BV-vhZ.text" = "Time  :";
+
+/* Class = "UILabel"; text = "🔴 Refused"; ObjectID = "mdv-ks-mic"; */
+"mdv-ks-mic.text" = "🔴 Refused";
+
+/* Class = "UILabel"; text = "No Data Found Check §your §internet Connection"; ObjectID = "nUW-Cg-iPq"; */
+"nUW-Cg-iPq.text" = "No Data Found Check §your §internet Connection";
+
+/* Class = "UILabel"; text = "Precautions :"; ObjectID = "o65-df-FrW"; */
+"o65-df-FrW.text" = "Precautions :";
+
+/* Class = "UILabel"; text = "Date  :"; ObjectID = "oPG-El-H58"; */
+"oPG-El-H58.text" = "Date  :";
+
+/* Class = "UINavigationItem"; title = "Request Status"; ObjectID = "oVD-1g-N7d"; */
+"oVD-1g-N7d.title" = "Request Status";
+
+/* Class = "UILabel"; text = "Your Requset Is Confirmed"; ObjectID = "tFU-4x-hUt"; */
+"tFU-4x-hUt.text" = "Your Requset Is Confirmed";
+
+/* Class = "UILabel"; text = "15:20 pm"; ObjectID = "v4W-Ma-Wee"; */
+"v4W-Ma-Wee.text" = "15:20 pm";
+
+/* Class = "UILabel"; text = "Your Are Wating For Result"; ObjectID = "xqd-ps-Hg6"; */
+"xqd-ps-Hg6.text" = "Your Are Wating For Result";
+
+/* Class = "UIButton"; normalTitle = "Show Request Details"; ObjectID = "y1R-M0-Pld"; */
+"y1R-M0-Pld.normalTitle" = "Show Request Details";
+
+/* Class = "UILabel"; text = "Taking Sample"; ObjectID = "z3E-pk-d3s"; */
+"z3E-pk-d3s.text" = "Taking Sample";

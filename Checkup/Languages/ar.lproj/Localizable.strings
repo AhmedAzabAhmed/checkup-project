@@ -1,0 +1,86 @@
+/* 
+  Localizable.strings
+  Checkup
+
+  Created by Hassan Khamis on 5/23/20.
+  Copyright © 2020 Hassan Khamis. All rights reserved.
+*/
+"language" = "ar";
+"sorry" = "تنبيه";
+"alertDateMessageError" = "التاريخ مطلوب";
+"Ok" = "حسناً";
+"Yes" = "نعم";
+"No" = "لا";
+"please enter at least date range or lab to filter data" = "من فضلك ادخل على الاقل فترة زمنية او اختر معمل"; 
+"please insert another date" = "من فضلك ادخل التاريخ الاخر";
+"INFORMATION" = "التعليمات";
+"STATUS_SORRY_CANCEL"= "نأسف لا يمكن إلغاء طلبكم الان تبقى اقل من ثلاث ساعات لسحب العينه إذا كان الامر طارئ راسل المعمل";
+"STATUS_DELETION_FAILS" = "لم يتم حذف الطلب حدث شىء خاطئ";
+"STATUS_DELETION_SUCCESS"= "تم حذف الطلب بنجاح";
+"STATUS_CONFIRMATION"="التأكيد";
+"STATUS_CANCEL_SUCCESS"="تم إلغاء هذاالطلب بنجاح  ";
+"STATUS_CANCEL_FAILS"="حدث شئ خاطئ";
+"STATUS_CANCEL_CONFIRMATION"="هل تريد إلغاء هذا الطلب ؟ ";
+"STATUS_DELETE_CONFIRMATION"="هل تريد حذف هذا الطلب ؟";
+"STATUS_COST"="المبلغ";
+"STATUS_COST_VALUE"="جنيه";
+"STATUS_BACK"="الخلف";
+"STATUS_LOCATION"="العنوان";
+"STATUS_TIME"="الوقت ";
+"STATUS_DATE"="التاريخ";
+"SIGN_UP_NAME" = "الاسم";
+"SIGN_UP_Email" = "البريد الالكترونى";
+"SIGN_UP_Password" = "الرقم السري";
+"SIGN_UP_ConfirmPassword" = "تاكيد الرقم السري";
+"SIGN_UP_signup" = "تسجيل حساب";
+"RESET_PASSWORD_EnterEmail" = "ادخل بريدك الالكترونى";
+"RESET_PASSWORD_ValidEmail" = "ادخل بريد الكترونى صحيح";
+"RESET_PASSWORD_Reset" = "إعادة تعيين";
+"RESET_PASSWORD_Cancel" = "اغلاق";
+"NEW_PASSWORD_OldPassword"="الرقم السري السابق ";
+"NEW_PASSWORD_NewPassword"="الرقم السرى الجديد ";
+"NEW_PASSWORD_ConfirmNewPassword"="تاكيد الرقم السرى الجديد ";
+"please wait for loading data" = "من فضلك انتظر حتى يتم تحميل البيانات";
+"Complete your profile" = "أكمل بياناتك الشخصية";
+"make sure that you entered your phone, birthdate and gender" = "من فضلك تاكد من ملئ بعض البيانات مثل ال رقم الهاتف وتاريخ الميلاد والنوع";
+"time is required" = "الميعاد مطلوب";
+"address is required" = "العنوان مطلوب";
+"please insert at least photo or test Name" = "من فضلك ادخل على الاقل صورة الروشتة او اكتب اسم التحليل";
+"Enter Year First"="إختر سنة أولاً";
+"address is required"="العنوان مطلوب";
+"floor number is required"="رقم الطابق مطلوب";
+"building number is required"="رقم المبنى مطلوب";
+"please drop pin on map"="من فضلك حدد موقعك على الخريطة";
+"Apartment number is required"="رقم الشقة مطلوب";
+"This graph show the percentage of HBA1C during "=" هذه الإحصائية تشير إلى معدل السكر التراكمي خلال عام ";
+"The password is invalid or the user does not have a password." = "كلمة السر غير صحيحة";
+"The email address is badly formatted." = "صيغة البريد الالكتروني غير صحيحة";
+"There is no user record corresponding to this identifier. The user may have been deleted." = "هذا البريد الالكتروني غير مسجل";
+"An error occured please try again later" = "حدث خطأ ما من فضلك اعد المحاولة في وقت لاحق";
+"Please Fill Required Fields" = "من فضلك أملأ الخانات المطلوبة";
+"Name is Required" = "اسم المستخدم مطلوب";
+"Email is Required" = "البريد الإلكتروني مطلوب";
+"Password is Required" =  "كلمة السر مطلوبة";
+"Password must be more than 6 characters" = "كلمة السر يجب ان تزيد عن ٦ احرف";
+"confirmPassword does not match Password" = "تأكيد كلمة السر لا يطابق كلمة السر";
+
+"wrong password" = "كلمة السر غير صحيحة";
+"account Exists With Different Credential" = "الحساب موجود ولكن ببيانات مختلفة";
+"Email is already exist" = "هذا البريد الإلكتروني موجود بالفعل";
+"No Internet Connection" = "لا يوجد إتصال بالانترنت";
+"There is no data" = "لا يوجد بيانات";
+"STATUS_IS_NOT_FROM_HOME_TEXT"="بيانات المعمل";
+"STATUS_SHOW_LAB_DETALS" = "عرض تفاصيل المعمل";
+"Enter your problem details here..."="ادخل تفاصيل الشكوى هنا...";
+"Enter your problem please"="من فضلك ادخل الشكوى الخاصة بك ";
+"Couldn't send email"="لا يمكن إرسال بريد إلكتروني";
+"Your device couldn't send email"="لا يستطيع جهازك ان يرسل بريد إلكتروني";
+"Language"="اللغه";
+"To changing language you need to restart application, do you want to restart?"="لتغيير اللغه يجب عليك إعادة تشغيل التطبيق مرة أخرى ,هل تريد إعادة التشغيل ؟";
+"Choose Language"="اختر لغة ";
+"please complete your health profile" = "من فضلك املأ البيانات الطبية الخاصة بك";
+"Answer all the questions, please" = "من فضلك ، اجب على جميع الاسئلة";
+"RESULT_NO_DESCRIPTION" = " لا يوجد وصف";
+"RESULT_NO_Date" =  "التاريخ لم يحدد";
+"RESULT_NO_TIME" = "الوقت لم يحدد";
+"Disease Name"="أسم المرض";
